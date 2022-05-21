@@ -1,0 +1,10 @@
+//creacion del pj -- stats
+
+puntos a distribuir 35
+carisma = (-4)
+fuerza = 4
+destreza = 10
+inteligencia = 10
+percepcion = 10
+suerte = 4
+
